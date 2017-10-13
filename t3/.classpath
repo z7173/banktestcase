@@ -40,7 +40,7 @@
 	<classpathentry kind="lib" path="F:/Protege_3.4.8/plugins/edu.stanford.smi.protegex.owl/arq.jar"/>
 	<classpathentry kind="lib" path="F:/Protege_3.4.8/plugins/edu.stanford.smi.protegex.owl/arq-extra.jar"/>
 	<classpathentry kind="lib" path="F:/Protege_3.4.8/plugins/edu.stanford.smi.protegex.owl/axis.jar"/>
-	<classpathentry kind="lib" path="F:/Protege_3.4.8/plugins/edu.stanford.smi.protegex.owl/commons-discovery-0.4.jar"/>
+	<classpathentry kind="lib" path="F:/Protege_3.4.8/plugins/edu.stanford.smi.protegex.owl/commons-discovery-0.4.jar" sourcepath="C:/Users/Administrator/.m2/repository/commons-discovery/commons-discovery/0.4/commons-discovery-0.4-sources.jar"/>
 	<classpathentry kind="lib" path="F:/Protege_3.4.8/plugins/edu.stanford.smi.protegex.owl/commons-lang-2.0.jar"/>
 	<classpathentry kind="lib" path="F:/Protege_3.4.8/plugins/edu.stanford.smi.protegex.owl/commons-logging-1.1.1.jar"/>
 	<classpathentry kind="lib" path="F:/Protege_3.4.8/plugins/edu.stanford.smi.protegex.owl/concurrent.jar"/>
