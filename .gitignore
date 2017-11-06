@@ -8,6 +8,20 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+### STS ###
+
+*.class
+.classpath
+
+.factorypath
+
+.project
+
+.settings
+
+.springBeans
+
+
 # Windows Installer files
 *.cab
 *.msi
