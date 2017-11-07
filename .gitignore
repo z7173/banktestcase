@@ -21,6 +21,8 @@ $RECYCLE.BIN/
 
 .springBeans
 
+.idea/
+
 
 # Windows Installer files
 *.cab
